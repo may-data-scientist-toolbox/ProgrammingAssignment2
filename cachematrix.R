@@ -1,11 +1,10 @@
-## Put comments here that give an overall description of what your
-## functions do.
+##
 ## repo: may-data-scientist-toolbox/ProgrammingAssignment2
 ## I have two functions, makeCacheMatrix and cacheSolve, to get an
 ## invertible matrix, calculate its inverse and cache the inverse
 ## calculation.
 ## 
-## Write a short comment describing this function
+## 
 ## makeCacheMatrix --- This function sets and gets the matrix,
 ##                    and its inverse.
 
@@ -24,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## 
 ##
 ## cacheSolve --- This function gets the matrix from above and 
 ## gets the cached (already calculated) inverse of this matrix, 
